@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats 📈
+
+[![stats](https://github-readme-stats.vercel.app/api?username=JWThacker&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/JWThacker)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWThacker&layout=compact)](https://github.com/JWThacker)
