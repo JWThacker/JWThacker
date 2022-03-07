@@ -20,7 +20,7 @@ Some things you'll find here on my GitHub:
    - Projects for my Udacity Nanodegrees/certificates (on more pure programming/software engineering topics).
 
 3. Code related to my personal/portfolio website (coming soon):
-   - On second thought I might not post this (hackers are very creative), but I will link my website and describe the stack when I launch it (again, coming soon!).
+   - On second thought I might not post this but I will link my website and describe the stack when I launch it (again, coming soon!).
 
 4. Useful Programs that I've written for my PhD
    - Various bash scripts, C programs etc that I've written that have aided me in my studies in my PhD.
